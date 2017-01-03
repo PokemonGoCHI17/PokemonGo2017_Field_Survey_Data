@@ -1,4 +1,4 @@
-# PokemonGo2017
+# PokemonGo2017_Field_Survey_Data
 Data from field survey reported in - The Geography of Pokémon GO: Beneficial and Problematic Effects on Places and Movement
 
 Paper: http://dx.doi.org/10.1145/3025453.3025495
